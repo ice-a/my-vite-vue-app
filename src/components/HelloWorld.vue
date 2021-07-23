@@ -11,11 +11,8 @@
 
   <button type="button" @click="state.count++">
     count is: {{ state.count }}
+    <p>https://github.com/ice-a/my-vite-vue-app/tree/master</p>
   </button>
-  <p>
-    Edit
-    <code>components/HelloWorld.vue</code> to test hot module replacement.
-  </p>
 </template>
 
 <script setup>
